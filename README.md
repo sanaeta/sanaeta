@@ -29,7 +29,7 @@ Laravel • React.js • Spring Boot • Java JEE • Bootstrap
 - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
 
 ### 🗄️ Databases
-MySQL • Oracle • SQLite  
+MySQL • Postgresql • Oracle • SQLite  
 
 ### 🔧 Tools
 Git • GitHub • VS Code • Eclipse • Android Studio • JupyterLab • Figma  
